@@ -10,8 +10,6 @@
 + Sessions
 + Login/Logout
 
-(ﾉ◕ヮ◕)ﾉ
-
 ## Overview
 
 The goal of this project is to build Fwitter (aka Flatiron Twitter).
