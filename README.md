@@ -32,7 +32,7 @@ Working on a software project with another person is not something to be taken l
   - Pass - 1 person does 1 requirement and then the next person does the next one
   - Parallel - work on different parts at the same time by agreeing on interfaces and stubs and meeting in the middle
 
-Remember! The goal at The Flatiron School is not to do, it is to *learn*. Make sure you have worked in all three styles of collaboration. We want you to learn how the different styles works, and make sure that together you and your partner understand every part of the code.
+Remember, the goal at The Flatiron School is not to do, it is to *learn*. Make sure you have worked in all three styles of collaboration. We want you to learn how the different styles works, and make sure that together you and your partner understand every part of the code.
 
 ## Instructions
 
