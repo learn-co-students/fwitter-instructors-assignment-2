@@ -1,3 +1,5 @@
+HI TRACY
+
 # Fwitter Group Project
 
 ## Objectives
